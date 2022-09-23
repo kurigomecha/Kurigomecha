@@ -1,8 +1,14 @@
 Hello, my name is Max and I'm currently learning web development (HTML, CSS, JS + frameworks). 
 
+I am also looking for Junior JS Developer job opportunities. Cheers!
+
+--- 
+
 Please feel free to browse my portfolio repos!
 
-I am also looking for Junior JS Developer job opportunities. Cheers!
+For example: https://github.com/Kurigomecha/odin-landing-page
+
+![site-demo](https://user-images.githubusercontent.com/102978943/182222712-330d61f1-06b3-47ea-baa1-83b3f1941adf.png)
 
 
 *You can't stop the signal, Mal. The information always goes somewhere.*
