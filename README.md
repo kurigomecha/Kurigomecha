@@ -6,7 +6,7 @@ I am also looking for Junior JS Developer job opportunities. Cheers!
 
 Please feel free to browse my portfolio repos!
 
-For example: https://github.com/Kurigomecha/odin-landing-page
+For example: https://github.com/kurigomecha/odin-landing-page
 
 ![site-demo](https://user-images.githubusercontent.com/102978943/182222712-330d61f1-06b3-47ea-baa1-83b3f1941adf.png)
 
