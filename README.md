@@ -1,6 +1,6 @@
-Hello, my name is Max and I'm currently learning web development (HTML, CSS, JS + frameworks). 
+Hello, my name is Max, I'm a QA Engineer learning web development (HTML, CSS, JS + frameworks). 
 
-I am also looking for Junior JS Developer job opportunities. Cheers!
+Cheers!
 
 --- 
 
